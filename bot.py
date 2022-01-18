@@ -15,4 +15,4 @@ async def on_member_join(member):
     await channel.send(f"{member.name} Добро пожаловать на сервер!")
     await member.add_roles(role)
 
-bot.run("OTMyMjI0NzU5MzY0NzMwOTMw.YeP39g.h73eg0ziB7XKrXnnbV-CMamZWTc")
+bot.run("TOKEN")
